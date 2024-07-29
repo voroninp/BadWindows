@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35118.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadWindows", "BadWindows.csproj", "{ECD69C88-DB15-425D-ADBD-89DC48472A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD69C88-DB15-425D-ADBD-89DC48472A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD69C88-DB15-425D-ADBD-89DC48472A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD69C88-DB15-425D-ADBD-89DC48472A1C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ECD69C88-DB15-425D-ADBD-89DC48472A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD69C88-DB15-425D-ADBD-89DC48472A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD69C88-DB15-425D-ADBD-89DC48472A1C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710A616C-A1D4-466E-A0BF-D869EA71E635}
+	EndGlobalSection
+EndGlobal
